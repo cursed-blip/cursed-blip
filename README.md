@@ -27,7 +27,7 @@ Internal / external offsets — 100+ member community.
   <img src="https://cdn.simpleicons.org/discord/black/white" width="36" height="36" alt="Discord" />
 </a>
 
-<br/><br/>
+<br/>
 
 **C++** &nbsp;·&nbsp; **C#** &nbsp;·&nbsp; **Lua** &nbsp;·&nbsp; **reverse**
 
@@ -42,7 +42,7 @@ Germany &nbsp;·&nbsp; <a href="https://time.is/Hamburg">CET (UTC+1)</a>
 <br/>
 
 <img align="top" src="https://github-readme-stats.shion.dev/api?username=cursed-blip&show_icons=true&count_private=true&hide=prs,issues,contribs&hide_title=true&hide_border=true&hide_rank=true&theme=transparent&text_color=8b949e&icon_color=8b949e&cache_seconds=1800" alt="GitHub stats" />
-<img align="top" src="https://github-readme-stats.shion.dev/api/top-langs/?username=cursed-blip&layout=compact&langs_count=5&size_weight=1&count_weight=0&exclude_repo=cursed-blip&hide_border=true&theme=transparent&cache_seconds=1800" alt="Top languages" />
+<img align="top" src="https://github-readme-stats.shion.dev/api/top-langs/?username=cursed-blip&layout=compact&langs_count=5&size_weight=1&count_weight=0&exclude_repo=cursed-blip&hide_border=true&theme=transparent&title_color=8b949e&text_color=8b949e&cache_seconds=1800" alt="Top languages" />
 
 <br/>
 <br/>
