@@ -35,12 +35,22 @@ Internal / external offsets — 100+ member community.
 
 <br/>
 
-📍 Germany &nbsp;·&nbsp; <a href="https://time.is/Hamburg">CET (UTC+1)</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios/50/ffffff/marker--v1.png" />
+  <img src="https://img.icons8.com/ios/50/000000/marker--v1.png" width="16" height="16" alt="location" />
+</picture>
+Germany &nbsp;·&nbsp; <a href="https://time.is/Hamburg">CET (UTC+1)</a>
 
 <br/>
 
-<img align="top" src="https://github-readme-stats.shion.dev/api?username=cursed-blip&show_icons=true&count_private=true&hide=prs,issues,contribs&hide_title=true&hide_border=true&hide_rank=true&theme=transparent&cache_seconds=1800" alt="GitHub stats" />
-<img align="top" src="https://github-readme-stats.shion.dev/api/top-langs/?username=cursed-blip&layout=compact&langs_count=5&size_weight=1&count_weight=0&exclude_repo=cursed-blip&hide_border=true&theme=transparent&cache_seconds=1800" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=cursed-blip&show_icons=true&count_private=true&hide=prs,issues,contribs&hide_title=true&hide_border=true&hide_rank=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&cache_seconds=1800" />
+  <img align="top" src="https://github-readme-stats.shion.dev/api?username=cursed-blip&show_icons=true&count_private=true&hide=prs,issues,contribs&hide_title=true&hide_border=true&hide_rank=true&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&cache_seconds=1800" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=cursed-blip&layout=compact&langs_count=5&size_weight=1&count_weight=0&exclude_repo=cursed-blip&hide_border=true&theme=transparent&title_color=ffffff&text_color=ffffff&cache_seconds=1800" />
+  <img align="top" src="https://github-readme-stats.shion.dev/api/top-langs/?username=cursed-blip&layout=compact&langs_count=5&size_weight=1&count_weight=0&exclude_repo=cursed-blip&hide_border=true&theme=transparent&title_color=000000&text_color=000000&cache_seconds=1800" alt="Top languages" />
+</picture>
 
 <br/>
 <br/>
