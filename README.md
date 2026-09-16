@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/ce/c7/ad/cec7adb45213a6ec5cfa04ca0596b65a.jpg" width="100%" alt="banner" />
+<img src="https://i.pinimg.com/736x/ce/c7/ad/cec7adb45213a6ec5cfa04ca0596b65a.jpg" width="100%" height="300px" alt="banner" />
 
 # grave
 
