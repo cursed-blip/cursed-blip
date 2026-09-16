@@ -5,7 +5,7 @@
 # grave
 
 I specialize in reverse engineering and native tooling.<br/>
-Internal / external offsets — 100+ member community.
+Internal / external Memory Analysis. 100+ member community.
 
 <br/>
 
