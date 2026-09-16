@@ -7,20 +7,20 @@
 C++, C#, Lua — mainly C++.
 
 I specialize in reverse engineering and native tooling.<br/>
-Internal / external memory analysis. 100+ member community.
+Internal / external offsets — 100+ member community.
 
 <br/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" />
+<img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus.png" width="36" height="36" alt="C++" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" />
+<img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png" width="36" height="36" alt="C#" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="36" height="36" alt="Lua" />
+<img src="https://img.icons8.com/ios-filled/50/000000/lua-language.png" width="36" height="36" alt="Lua" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="36" height="36" alt="Windows" />
+<img src="https://img.icons8.com/ios-filled/50/000000/windows-10.png" width="36" height="36" alt="Windows" />
 &nbsp;&nbsp;&nbsp;
 <a href="https://discord.gg/BaytZB6mCP">
-  <img src="https://cdn.simpleicons.org/discord/5865F2" width="36" height="36" alt="Discord" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/discord.png" width="36" height="36" alt="Discord" />
 </a>
 
 <br/><br/>
